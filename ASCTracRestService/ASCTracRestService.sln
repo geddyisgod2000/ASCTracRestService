@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCTracRestService", "ASCTracRestService.csproj", "{90806482-3BC3-44FE-A767-744549EDFEC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASCTracAuthAPI", "..\ASCTracAuthAPI\ASCTracAuthAPI.csproj", "{50B8B8AB-10AC-4638-90D6-ACFE4D7DCBD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90806482-3BC3-44FE-A767-744549EDFEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90806482-3BC3-44FE-A767-744549EDFEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90806482-3BC3-44FE-A767-744549EDFEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90806482-3BC3-44FE-A767-744549EDFEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B8B8AB-10AC-4638-90D6-ACFE4D7DCBD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B8B8AB-10AC-4638-90D6-ACFE4D7DCBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B8B8AB-10AC-4638-90D6-ACFE4D7DCBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B8B8AB-10AC-4638-90D6-ACFE4D7DCBD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C1B431-A6EA-4CE2-91DA-AD73CE88E824}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = ASCTracRestService.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\ASCTracAuthAPI\\ASCTracAuthAPI.csproj
+		SccProjectName2 = \u0022$/ASCTracDev/ASCTracRestService.root/ASCTracAuthAPI\u0022,\u0020LGNCAAAA
+		SccLocalPath2 = ..\\ASCTracAuthAPI
+	EndGlobalSection
+EndGlobal
